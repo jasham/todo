@@ -2,5 +2,10 @@
   "name": "todoserver",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19"
+  }
 }
